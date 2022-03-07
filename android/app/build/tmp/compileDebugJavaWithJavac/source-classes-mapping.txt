@@ -1,0 +1,15 @@
+com/spprovider/MainApplication.java
+ com.spprovider.MainApplication
+ com.spprovider.MainApplication$1
+com/spprovider/BuildConfig.java
+ com.spprovider.BuildConfig
+com/spportal/ReactNativeFlipper.java
+ com.spportal.ReactNativeFlipper
+ com.spportal.ReactNativeFlipper$1
+ com.spportal.ReactNativeFlipper$2
+ com.spportal.ReactNativeFlipper$2$1
+com/spprovider/MainActivity.java
+ com.spprovider.MainActivity
+ com.spprovider.MainActivity$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
